@@ -1,0 +1,18 @@
+Variables: Las variables pueden ser basicamente de tres tipos
+distintos: numeros, cadenas de cosas, o valores de verdadero o falso
+
+Strings: los strings son cadenas o hilos de cosas que se tratan como
+si fueran una sola unidad.
+
+Funciones: Las funciones son objetos que hacen deteminadas cosas
+con distintas entradas llamadas argumentos, para poder asignar una
+caracteristica determinada al resultado de lo que hace una funcio
+y no quede como undefined usamos la operacion return
+
+If: Es un funcion que tiene como entrada una condicion que 
+se puede responder como verdadera o falsa y en funcion de como
+resulte la condicion se ejecutara una u otra tarea
+
+Valores booleanos: Los valores booleanos son valores de que 
+pueden tomar solo dos estados el de verdadero o falso, o cualquier
+otra cosa que pueda evaluarse como tal.
