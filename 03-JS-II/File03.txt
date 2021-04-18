@@ -1,0 +1,19 @@
+for: es una funcion que permite generar un bucle, es decir, nos permite 
+repetir una tarea un numero especifico de veces, la funcion for tiene siempre tres
+argumentos o entradas separadas por ;. La primera entrada es la variable a definir
+que nos sirve como 'unidad de cuenta' de repeticion del ciclo, el segundo argumento es 
+una condicion, esto es, una expresion que en caso de resultar verdadera detendra el ciclo, por 
+ultimo la ultima entrada nos dice el tamano de incremento de la primera variable.
+
+
+&&: AND es un conector que nos permite unir valores booleanos, es decir, con un valor
+de verdadero (true) o falso (false). La expresion resultante sera verdadera solo en el 
+caso que ambos valores resulten verdaderos y sera falsa en cualquier otro caso.
+
+||: OR es un conector similar al anterior, excepto que en este caso el valor devuelto sera 
+verdadero ya sea que uno o ambos de los enunciados sean verdaderos y sera falso solo si ambos valores
+son falsos
+
+!: es un operador logico que sirve para negar el valor de un booleano, es decir,
+si el mismo tiene asignado un valor de true al aplicar el operador el valor logico del resultado 
+sera false.
