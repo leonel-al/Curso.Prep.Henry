@@ -1,0 +1,2 @@
+Array : un array es un tipo de estructura que permite almacenar varias cosas, estas 'cosas', no necesariamente necesitan ser del mismo 
+tipo. Es decir se puede tener varias clases de variables, como string, booleanos, numbers, etc en el mismo array.
