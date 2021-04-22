@@ -1,0 +1,13 @@
+Objeto: Podemos definir los objetos como una coleccion de pares clave-valor. Las propiedades de un objeto se encierran entre curly braces y 
+se separan entre comas cuando se declara cada uno.
+
+Propiedades: Definimos a las propiedades como pares de key-value, o claves valor.Los valores pueden ser cualquier tipo de datos como numeros
+booleanos, string, etc.
+
+Metodos: Los metodos son una clase especial de propiedades que se definen como funciones dentro de los objetos, pueden por tanto invocarse.
+
+Bucles for...in: Los bucles for ...in permiten iterar a traves de cada una las propiedades de un objeto y por lo tanto desplegarlas para conocerlas.
+
+Notacion de puntos vs notacion de corchetes: En este tipo de notacion se puede acceder a cada una de las propiedades del objeto ya sea colocando 
+nombre de la propiedad entre corchetes (en este caso el nombre de la propiedad debe figurar como un string), o bien despues de un punto como en 
+objeto.propiedad.
