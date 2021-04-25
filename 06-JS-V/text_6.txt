@@ -1,0 +1,6 @@
+prototype: Se podria decir que el prototipo es una propiedad que tienen los objetos y que les permiter 'heredar' las propiedaes y metodos de
+la clase a la que pertenecen. De esta manera pueden establecerse cadena de prototipos o prototype chains. 
+
+Construtores de clase: Los constructores de clase permiten crear clases de objetos que poseen ciertas propiedades y metodos, de esta 
+forma una clase puede servir de 'molde' para la creacion de nuevos objetos que posean carcteristicas similares. Cada caso concreto de 
+un objeto perteneciente a una clase recibe el nombre de instanciacion.
