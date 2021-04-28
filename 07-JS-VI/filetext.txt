@@ -1,0 +1,2 @@
+Callback: Un callback es basicamente una funcion que sirve de argumento input a otra funcion es importante recordar que cuando una funcion 
+se escribe como argumento de otra no deben colocarse los parentesis porque no se esta invocando la funcion.
