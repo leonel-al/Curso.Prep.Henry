@@ -119,12 +119,12 @@ function buscoInterseccion(arreglo1, arreglo2){
 
   for(var j = 0; j < arreglo1.length; j++){
     for( var i = 0; i < arreglo2.length; i ++){
-      if(arreglo1[j]===arreglo2[i])
+      if(arreglo1[j]===arreglo2[i]){
       intersection.push(arreglo2[i]);
     }
-  } return intersection;
+  }
+} return intersection;
 }
-
 
 
 // No modificar nada debajo de esta línea
